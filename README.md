@@ -57,7 +57,3 @@ chmod u+x Tic_Tac_Toe.jar
 java -jar Tic_Tac_Toe.jar
 ```
 
-
-This is a video of the game:
-
-https://user-images.githubusercontent.com/63050133/148140304-56d006c2-5e21-4078-a44e-ab9bc8c88ebf.mp4
