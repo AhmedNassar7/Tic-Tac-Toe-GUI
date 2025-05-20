@@ -30,7 +30,7 @@ sudo apt install default-jre
 
 open your cmd
 ```
-git clone https://github.com/7oSkaaa/Tic-Tac-Toe-GUI.git
+git clone https://github.com/AhmedNassar7/Tic-Tac-Toe-GUI.git
 ```
 Or 
 
@@ -46,7 +46,7 @@ after that go to the folder of the repo and Double Click on Tic_Tac_Toe.jar
 open your terminal
 
 ```
-git clone https://github.com/7oSkaaa/Tic-Tac-Toe-GUI.git
+git clone https://github.com/AhmedNassar7/Tic-Tac-Toe-GUI.git
 ```
 go to the path of the folder
 
